@@ -4,7 +4,11 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js",
+    "start": "node index.js",
+    "example:basic": "node example/basic-usage.js",
+    "example:advanced": "node example/advanced-usage.js",
+    "example:success": "node example/success-demo.js"
   },
   "keywords": [],
   "author": "",
