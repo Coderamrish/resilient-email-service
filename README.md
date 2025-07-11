@@ -367,7 +367,7 @@ We welcome contributions! Here's how to get started:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ayush215mb/resilient-email-service.git
+git clone https://github.com/Coderamrish/resilient-email-service.git
 
 # Install dependencies
 npm install
@@ -399,6 +399,6 @@ This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) 
 
 **Made with ❤️ for reliable email delivery**
 
-[GitHub](https://github.com/your-username/resilient-email-service) • [Issues](https://github.com/your-username/resilient-email-service/issues) • [Discussions](https://github.com/your-username/resilient-email-service/discussions)
+[GitHub](https://github.com/Coderamrish/resilient-email-service) • [Issues](https://github.com/Coderamrish/resilient-email-service/issues) • [Discussions](https://Coderamrish/your-username/resilient-email-service/discussions)
 
 </div>
